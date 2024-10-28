@@ -1,7 +1,7 @@
 package com.example.wallethistory.ui.fragments;
 
-import static com.example.wallethistory.ui.main.MainActivity.GEMINI_API_KEY;
-import static com.example.wallethistory.ui.main.MainActivity.GEMINI_AI_MODEL;
+import static com.example.wallethistory.MainActivity.GEMINI_API_KEY;
+import static com.example.wallethistory.MainActivity.GEMINI_AI_MODEL;
 
 import android.app.DatePickerDialog;
 import android.app.TimePickerDialog;

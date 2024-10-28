@@ -1,4 +1,4 @@
-package com.example.wallethistory.ui.main;
+package com.example.wallethistory;
 
 import android.os.Bundle;
 import android.view.ViewGroup;
@@ -13,7 +13,6 @@ import androidx.navigation.NavController;
 import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.NavigationUI;
 
-import com.example.wallethistory.R;
 import com.example.wallethistory.databinding.ActivityMainBinding;
 import com.example.wallethistory.ui.fragments.NewTransactionFragment;
 import com.google.android.gms.tasks.OnCompleteListener;
