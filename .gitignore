@@ -1,0 +1,50 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+
+# Gradle Wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+.gradle/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard files
+proguard/
+proguard-rules.pro
+
+# Android Studio files
+.idea
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+.idea/codestyles/
+*.iml
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder generated in Android Studio 2.2+
+.externalNativeBuild
+
+# Google Services (e.g., Firebase config)
+google-services.json
+
+# Miscellaneous files
+*.orig
+*.log
+*.swo
+*.swp
+
+# OS generated files
+.DS_Store
+*.swp
+*.swo
+Thumbs.db

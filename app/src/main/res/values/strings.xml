@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wallet History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expense">Expense</string>
+    <string name="income">Income</string>
+    <string name="home">Home</string>
+    <string name="transaction_history">Transaction History</string>
+    <string name="analytics">Analytics</string>
+    <string name="user">User</string>
+    <string name="recent_activity">Recent Activity</string>
+    <string name="scanning_transaction">Scanning Transaction…</string>
+    <string name="optional_fields">Optional Fields</string>
+</resources>

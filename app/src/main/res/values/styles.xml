@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="bottom_navigation_view_indicator_style">
+        <item name="android:color">@color/transparent</item>
+    </style>
+
+    <style name="full_round_shape_style">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>
